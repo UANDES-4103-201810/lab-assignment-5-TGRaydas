@@ -1,5 +1,10 @@
 # README
 
+Pedro Grand Naveillan // pgrand@miuandes.cl
+Juan Esteban Vejar // jvejar1@miuandes.cl
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
